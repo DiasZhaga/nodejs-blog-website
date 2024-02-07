@@ -17,7 +17,7 @@ This is a web application that provides a platform for users to create, edit, an
 1. Clone the repository: `git clone https://github.com/DiasZhaga/nodejs-blog-website.git`
 2. Install dependencies: `npm install`
 3. Set up a MongoDB database and update the connection string in the `.env` file.
-4. Start the application: `npm start`
+4. Start the application: `npm run dev`
 5. Open your browser and visit `http://localhost:5000`
 
 ## Configuration
